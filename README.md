@@ -35,3 +35,14 @@ cd zomato-analysis
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+Results and Insights
+Customer Preferences: Insights on popular restaurant types.
+Pricing Trends: Trends in price ranges for couples.
+Ratings Analysis: Correlation between restaurant types and ratings.
+Technologies Used
+Programming Language: Python
+Libraries: Pandas, NumPy, Matplotlib, Seaborn
+Acknowledgements
+This project is based on the publicly available Zomato dataset. Special thanks to the data providers.
