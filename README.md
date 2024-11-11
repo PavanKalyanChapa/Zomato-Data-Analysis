@@ -30,7 +30,7 @@ To set up the environment, run the following commands:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your_username/zomato-analysis.git
+git clone https://github.com/PavanKalyanChapa/zomato-analysis.git
 cd zomato-analysis
 
 # Install dependencies
